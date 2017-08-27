@@ -1,8 +1,5 @@
 body{
-    background-color: #638a79;
-    background-image: url("img/body-bg.png");
-    background-repeat: repeat-x;
-    background-attachment: fixed;
+    background: #638a79 url("img/body-bg.png") repeat-x fixed;
     font-size: 13px;
     line-height: 18px;
     color: #333;
