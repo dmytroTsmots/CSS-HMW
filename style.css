@@ -65,8 +65,8 @@ a.button {
 	background: url(img/button-1.png) no-repeat 0px 0px; 
 }
 a.button:hover {
-	background: url(img/button-1.png) no-repeat 0px -38px;
+	background: url(img/button-1.png) 0px -38px;
 }
 a.button:active {
-	background: url(img/button-1.png) no-repeat 0px -76px;
+	background: url(img/button-1.png) 0px -76px;
 }
